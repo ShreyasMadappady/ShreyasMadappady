@@ -15,8 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1w0cboQVF1YKDq8QyZxUsN54JDG3dYiEz/view?usp=drivesdk](https://drive.google.com/file/d/1w0cboQVF1YKDq8QyZxUsN54JDG3dYiEz/view?usp=drivesdk)
 
-- ⚡ Fun fact **Mechanical Engineer to Software Engineer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyasms2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyasms2000" height="30" width="40" /></a>
